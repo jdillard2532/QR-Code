@@ -27,14 +27,12 @@ body {
 img {
   border-radius: 15px;
 }
-p {
-  margin: 0.9375rem 0;
-}
 h1 {
   font-size: 1.4667rem;
   font-weight: 700;
   line-height: 120%;
   color: #1f314f;
+  margin-top: 1rem;
 }
 
 p:last-of-type {
@@ -42,6 +40,6 @@ p:last-of-type {
   font-weight: 400;
   color: #68778d;
   letter-spacing: 0.2px;
-  padding: 1.2rem;
+  padding: 0.5rem 1.2rem 1.2rem 1.2rem;
   margin: 0;
 }
