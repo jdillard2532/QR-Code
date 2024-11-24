@@ -30,7 +30,7 @@ img {
 p {
   margin: 0.9375rem 0;
 }
-p:first-of-type {
+h1 {
   font-size: 1.4667rem;
   font-weight: 700;
   line-height: 120%;
