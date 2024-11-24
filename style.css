@@ -4,10 +4,14 @@ body {
   margin: 0;
   padding: 0;
   background-color: #d5e1ef;
+  height: 100vh;
 }
 .container {
   display: flex;
   justify-content: center;
+  align-items: center;
+  justify-self: center;
+  height: 100%;
 }
 .wrapper {
   display: flex;
