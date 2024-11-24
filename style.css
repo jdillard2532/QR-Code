@@ -16,15 +16,20 @@ body {
 .wrapper {
   display: flex;
   flex-direction: column;
-  max-width: 320px;
+  max-width: 310px;
   text-align: center;
   padding: 1rem;
   background-color: #fff;
   border-radius: 15px;
+  max-height: 499px;
 }
 
 img {
   border-radius: 15px;
+}
+
+p {
+  margin: 0.9375rem;
 }
 
 p:first-of-type {
