@@ -20,18 +20,16 @@ body {
   text-align: center;
   padding: 1rem;
   background-color: #fff;
-  border-radius: 15px;
+  border-radius: 20px;
   max-height: 499px;
 }
 
 img {
   border-radius: 15px;
 }
-
 p {
-  margin: 0.9375rem;
+  margin: 0.9375rem 0;
 }
-
 p:first-of-type {
   font-size: 1.4667rem;
   font-weight: 700;
@@ -44,4 +42,6 @@ p:last-of-type {
   font-weight: 400;
   color: #68778d;
   letter-spacing: 0.2px;
+  padding: 1.2rem;
+  margin: 0;
 }
